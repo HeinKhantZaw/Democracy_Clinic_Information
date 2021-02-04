@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0955e31b1f61bd8b82f063c977fb0e0a",
+    "revision": "d86f11e13de72638006e1d6f86730913",
     "url": "/Democracy_Clinic_Information/index.html"
   },
   {
-    "revision": "3cd58902b7787ee42b0b",
+    "revision": "e5ea02869012674ca28c",
     "url": "/Democracy_Clinic_Information/static/css/main.54947b7b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Democracy_Clinic_Information/static/js/2.741578ba.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3cd58902b7787ee42b0b",
-    "url": "/Democracy_Clinic_Information/static/js/main.ece6bfc7.chunk.js"
+    "revision": "e5ea02869012674ca28c",
+    "url": "/Democracy_Clinic_Information/static/js/main.8d672b52.chunk.js"
   },
   {
     "revision": "d7ee7cecd893b4b80d84",
