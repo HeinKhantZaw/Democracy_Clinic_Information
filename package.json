@@ -1,8 +1,9 @@
 {
-  "name": "material-kit-react",
-  "version": "1.9.0",
-  "description": "Material Kit React. Coded by Creative Tim",
+  "name": "democracy-clinic-website",
+  "version": "1.0.0",
+  "description": "Doctor information from Democracy Clinic",
   "private": true,
+  "homepage": "http://heinkhantzaw.github.io/Democracy_Clinic_Information",
   "main": "src/index.js",
   "dependencies": {
     "@material-ui/core": "4.10.0",
@@ -40,6 +41,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build && gulp licenses",
     "test": "react-scripts test --env=jsdom",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject",
     "lint:check": "eslint . --ext=js,jsx;  exit 0",
     "lint:fix": "eslint . --ext=js,jsx --fix;  exit 0",
