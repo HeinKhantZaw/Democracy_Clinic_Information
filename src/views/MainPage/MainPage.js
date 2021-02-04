@@ -16,13 +16,12 @@ import styles from "assets/jss/material-kit-react/views/landingPage.js";
 // Sections for this page
 import IntroductionSection from "./Sections/IntroductionSection.js";
 import DoctorSection from "./Sections/DoctorSection.js";
-const dashboardRoutes = [];
 
 const useStyles = makeStyles(styles);
 
 export default function LandingPage(props) {
   const classes = useStyles();
-  const { ...rest } = props;
+
   return (
     <div>
       <Parallax filter image={require("assets/img/logo.png")}>
