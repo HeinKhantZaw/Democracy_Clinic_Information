@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Doctor information from Democracy Clinic",
   "private": true,
-  "homepage": "http://heinkhantzaw.github.io/Democracy_Clinic_Information",
+  "homepage": "https://heinkhantzaw.github.io/Democracy_Clinic_Information/",
   "main": "src/index.js",
   "dependencies": {
     "@material-ui/core": "4.10.0",
@@ -32,7 +32,8 @@
     "eslint-plugin-react": "7.20.0",
     "gulp": "4.0.2",
     "gulp-append-prepend": "1.0.8",
-    "prettier": "2.0.5"
+    "prettier": "2.0.5",
+    "gh-pages": "^3.1.0"
   },
   "optionalDependencies": {
     "typescript": "3.9.3"
