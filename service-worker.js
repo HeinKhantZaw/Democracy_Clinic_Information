@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Democracy_Clinic_Information/precache-manifest.4201a2c742193974d895e93d09385d8c.js"
+  "/Democracy_Clinic_Information/precache-manifest.38ee842406794f1b5c23515a9ab33cbb.js"
 );
 
 self.addEventListener('message', (event) => {
