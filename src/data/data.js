@@ -303,7 +303,7 @@ export const docData = {
     {
       name: "Dr.Aung Thu",
       specialization: "အထွေထွေ နှင့် အရေပြားအထူးကု",
-      status: "Both phone call and messenger",
+      status: "Telemedicine consultation via Viber",
       facebook: null,
       viber: "+66929570816",
     },
