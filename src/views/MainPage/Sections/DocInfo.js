@@ -8,69 +8,61 @@ import CardBody from "components/Card/CardBody.js";
 
 // you would import our component like this
 import GridContainer from "components/Grid/GridContainer.js";
-import Button from 'components/CustomButtons/Button.js';
+import Button from "components/CustomButtons/Button.js";
 
-import { cardTitle, cardLink, cardSubtitle } from "assets/jss/material-kit-react.js";
+import {
+  cardTitle,
+  cardLink,
+  cardSubtitle,
+} from "assets/jss/material-kit-react.js";
 
 const styles = {
   cardTitle,
   cardLink,
-  cardSubtitle
+  cardSubtitle,
 };
 
 const useStyles = makeStyles(styles);
 
-const DocInfo = ({name,specialization,status,facebook,viber}) => {
+const DocInfo = ({ name, specialization, status, facebook, viber }) => {
   const classes = useStyles();
-  if(facebook == null){
+  if (facebook == null) {
     return (
-        <GridContainer justify="center">
-            <Card style={{width: "20rem"}}>
-            <CardBody>
+      <GridContainer justify="center">
+        <Card style={{ width: "20rem" }}>
+          <CardBody>
             <h4 className={classes.cardTitle}>{name}</h4>
             <h6 className={classes.cardSubtitle}>{specialization}</h6>
-            <p>
-            {status}
-            </p>
-    
-            <h6>
-                Phone number : {viber}
-            </h6>
+            <p>{status}</p>
+
+            <h6>Phone number : {viber}</h6>
           </CardBody>
         </Card>
-        </GridContainer>
-      );
+      </GridContainer>
+    );
   }
-  if(viber == null){
-    viber = "Not given"
+  if (viber == null) {
+    viber = "Not given";
   }
   return (
     <GridContainer justify="center">
-        <Card style={{width: "20rem"}}>
+      <Card style={{ width: "20rem" }}>
         <CardBody>
-        <h4 className={classes.cardTitle}>{name}</h4>
-        <h6 className={classes.cardSubtitle}>{specialization}</h6>
-        <p>
-        {status}
-        </p>
+          <h4 className={classes.cardTitle}>{name}</h4>
+          <h6 className={classes.cardSubtitle}>{specialization}</h6>
+          <p>{status}</p>
 
-        <h6>
-            Phone number : {viber}
-        </h6>
-        <a
-            href={facebook}
-            target="_blank"
-            className={classes.cardLink}>
+          <h6>Phone number : {viber}</h6>
+          <a href={facebook} target="_blank" className={classes.cardLink}>
             <Button color="facebook">
-        <i
-          className={" fab fa-facebook-square"}
-        />Connect
-      </Button>
-            </a>
-      </CardBody>
-    </Card>
+              <i className={" fab fa-facebook-square"} />
+              Connect
+            </Button>
+          </a>
+        </CardBody>
+      </Card>
     </GridContainer>
   );
-}
+};
 
 export default DocInfo;

@@ -5,7 +5,6 @@ import classNames from "classnames";
 import { makeStyles } from "@material-ui/core/styles";
 import "../../assets/css/custom.css";
 
-// import "./assets/css/custom.css";
 // core components
 import Footer from "components/Footer/Footer.js";
 import GridContainer from "components/Grid/GridContainer.js";
