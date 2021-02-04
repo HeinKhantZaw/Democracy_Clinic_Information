@@ -212,6 +212,13 @@ export const docData = {
       facebook: null,
       viber: "095026689",
     },
+    {
+      name: "Dr.Mon Mon Aung",
+      specialization: "အထွေထွေရောဂါကု",
+      status: "Telemedicine consultation via Viber",
+      facebook: null,
+      viber: "+9595080959",
+    },
   ],
   Physician: [
     {
@@ -347,15 +354,6 @@ export const docData = {
       status: "Can connect via page messenger",
       facebook: "https://www.facebook.com/soemoeaungdr",
       viber: null,
-    },
-  ],
-  Pulmonologist: [
-    {
-      name: "Dr.Mon Mon Aung",
-      specialization: "တီဘီနှင့်အဆုတ်ရောဂါအထူးကု",
-      status: "Telemedicine consultation via Viber",
-      facebook: null,
-      viber: "+9595080959",
     },
   ],
   Pediatricians: [

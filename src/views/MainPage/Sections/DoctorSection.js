@@ -148,24 +148,6 @@ export default function DoctorSection() {
       </details>
 
       <details>
-        <summary>တီဘီနှင့်အဆုတ်ရောဂါအထူးကု</summary>
-        {docData.Pulmonologist.map((data, key) => {
-          return (
-            <div key={key}>
-              <DocInfo
-                key={key}
-                name={data.name}
-                specialization={data.specialization}
-                status={data.status}
-                facebook={data.facebook}
-                viber={data.viber}
-              />
-            </div>
-          );
-        })}
-      </details>
-
-      <details>
         <summary>အရေပြားအထူးကု</summary>
         {docData.Dermatologists.map((data, key) => {
           return (
