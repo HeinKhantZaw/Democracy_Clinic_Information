@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/Democracy_Clinic_Information/static/css/main.54947b7b.chunk.css",
-    "main.js": "/Democracy_Clinic_Information/static/js/main.9847134b.chunk.js",
-    "main.js.map": "/Democracy_Clinic_Information/static/js/main.9847134b.chunk.js.map",
+    "main.js": "/Democracy_Clinic_Information/static/js/main.8680c43a.chunk.js",
+    "main.js.map": "/Democracy_Clinic_Information/static/js/main.8680c43a.chunk.js.map",
     "runtime-main.js": "/Democracy_Clinic_Information/static/js/runtime-main.0f4a5d83.js",
     "runtime-main.js.map": "/Democracy_Clinic_Information/static/js/runtime-main.0f4a5d83.js.map",
     "static/js/2.741578ba.chunk.js": "/Democracy_Clinic_Information/static/js/2.741578ba.chunk.js",
     "static/js/2.741578ba.chunk.js.map": "/Democracy_Clinic_Information/static/js/2.741578ba.chunk.js.map",
     "index.html": "/Democracy_Clinic_Information/index.html",
-    "precache-manifest.d17ca505db66272a550ece575f421762.js": "/Democracy_Clinic_Information/precache-manifest.d17ca505db66272a550ece575f421762.js",
+    "precache-manifest.4201a2c742193974d895e93d09385d8c.js": "/Democracy_Clinic_Information/precache-manifest.4201a2c742193974d895e93d09385d8c.js",
     "service-worker.js": "/Democracy_Clinic_Information/service-worker.js",
     "static/css/main.54947b7b.chunk.css.map": "/Democracy_Clinic_Information/static/css/main.54947b7b.chunk.css.map",
     "static/js/2.741578ba.chunk.js.LICENSE.txt": "/Democracy_Clinic_Information/static/js/2.741578ba.chunk.js.LICENSE.txt",
-    "static/media/logo.png": "/Democracy_Clinic_Information/static/media/logo.1f3fb58d.png"
+    "static/media/logo.png": "/Democracy_Clinic_Information/static/media/logo.1278b9f0.png"
   },
   "entrypoints": [
     "static/js/runtime-main.0f4a5d83.js",
     "static/js/2.741578ba.chunk.js",
     "static/css/main.54947b7b.chunk.css",
-    "static/js/main.9847134b.chunk.js"
+    "static/js/main.8680c43a.chunk.js"
   ]
 }

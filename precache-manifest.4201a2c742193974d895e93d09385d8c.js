@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f81f319f502eaeaca9b86e5fb7f53ed6",
+    "revision": "5c0d02ca463a0af2d45959e67317e279",
     "url": "/Democracy_Clinic_Information/index.html"
   },
   {
-    "revision": "7988f2d8da10ffb2ee7c",
+    "revision": "8ef7b012666e42d51c7a",
     "url": "/Democracy_Clinic_Information/static/css/main.54947b7b.chunk.css"
   },
   {
@@ -16,15 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Democracy_Clinic_Information/static/js/2.741578ba.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7988f2d8da10ffb2ee7c",
-    "url": "/Democracy_Clinic_Information/static/js/main.9847134b.chunk.js"
+    "revision": "8ef7b012666e42d51c7a",
+    "url": "/Democracy_Clinic_Information/static/js/main.8680c43a.chunk.js"
   },
   {
     "revision": "d7ee7cecd893b4b80d84",
     "url": "/Democracy_Clinic_Information/static/js/runtime-main.0f4a5d83.js"
   },
   {
-    "revision": "1f3fb58d9af60ed9f8517f33b50f34e9",
-    "url": "/Democracy_Clinic_Information/static/media/logo.1f3fb58d.png"
+    "revision": "1278b9f0b254f7110bbe4cf79f4132df",
+    "url": "/Democracy_Clinic_Information/static/media/logo.1278b9f0.png"
   }
 ]);
