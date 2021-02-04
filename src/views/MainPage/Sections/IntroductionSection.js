@@ -20,8 +20,8 @@ export default function IntroductionSection() {
           <h4 className={classes.description}>
             These are doctors who are willing to help with teleconsultation and
             OPD. အောက်တွင်ဖော်ပြထားသော ဆရာဝန်များသည်
-            အပြင်မှာဆက်သွယ်မေးမြန်းနိုင်သည့် ဖုန်းနံပါတ် ဒါမှမဟုတ် ဆက်သွယ်ရမည့်
-            Facebook လိပ်စာပေးထားသော volunteer ဆရာဝန်များဖြစ်ပါသည်။
+            အပြင်တွင်ဆက်သွယ်မေးမြန်းနိုင်ရန် ဖုန်းနံပါတ် သို့မဟုတ် ဆက်သွယ်ရမည့်
+            Facebook လိပ်စာပေးထားသည့် volunteer ဆရာဝန်များဖြစ်ပါသည်။
           </h4>
         </GridItem>
       </GridContainer>
