@@ -54,7 +54,7 @@ export const docData = {
       specialization: "အထွေထွေရောဂါကု",
       status: "Both viber and messenger",
       facebook: "https://www.facebook.com/sumin7676",
-      viber: "0978532456",
+      viber: "09785302456",
     },
     {
       name: "Dr.Phway Nu Moe",
@@ -391,8 +391,7 @@ export const docData = {
   Emergency: [
     {
       name: "Dr.Thae Thae Phyu",
-      specialization:
-        "အရေးပေါ်နှင့်ထိခိုက်ဒဏ်ရာဆိုင်ရာ",
+      specialization: "အရေးပေါ်နှင့်ထိခိုက်ဒဏ်ရာဆိုင်ရာ",
       status: "Telemedicine consultation via Messenger",
       facebook: "https://www.facebook.com/mavis.lwin.3",
       viber: null,
