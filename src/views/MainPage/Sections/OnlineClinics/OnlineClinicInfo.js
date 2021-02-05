@@ -24,39 +24,18 @@ const styles = {
 
 const useStyles = makeStyles(styles);
 
-const DocInfo = ({ name, specialization, status, facebook, viber }) => {
+const OnlineClinicInfo = ({ name, category, facebook }) => {
   const classes = useStyles();
-  if (facebook == null) {
-    return (
-      <GridContainer justify="center">
-        <Card style={{ width: "20rem" }}>
-          <CardBody>
-            <h4 className={classes.cardTitle}>{name}</h4>
-            <h6 className={classes.cardSubtitle}>{specialization}</h6>
-            <p>{status}</p>
-
-            <h6>Phone number : {viber}</h6>
-          </CardBody>
-        </Card>
-      </GridContainer>
-    );
-  }
-  if (viber == null) {
-    viber = "Not given";
-  }
   return (
     <GridContainer justify="center">
       <Card style={{ width: "20rem" }}>
         <CardBody>
           <h4 className={classes.cardTitle}>{name}</h4>
-          <h6 className={classes.cardSubtitle}>{specialization}</h6>
-          <p>{status}</p>
-
-          <h6>Phone number : {viber}</h6>
+          <p>{category}</p>
           <a href={facebook} target="_blank" className={classes.cardLink}>
             <Button color="facebook">
               <i className={" fab fa-facebook-square"} />
-              Connect
+              မေးမြန်းရန် နှိပ်ပါ
             </Button>
           </a>
         </CardBody>
@@ -65,4 +44,4 @@ const DocInfo = ({ name, specialization, status, facebook, viber }) => {
   );
 };
 
-export default DocInfo;
+export default OnlineClinicInfo;

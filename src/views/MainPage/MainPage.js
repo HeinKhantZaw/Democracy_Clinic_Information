@@ -15,7 +15,9 @@ import styles from "assets/jss/material-kit-react/views/landingPage.js";
 
 // Sections for this page
 import IntroductionSection from "./Sections/IntroductionSection.js";
-import DoctorSection from "./Sections/DoctorSection.js";
+
+//Navigation for this page
+import NavPillSection from "./NavigationPills/NavPillSection.js";
 
 const useStyles = makeStyles(styles);
 
@@ -41,7 +43,7 @@ export default function LandingPage(props) {
       <div className={classNames(classes.main, classes.mainRaised)}>
         <div className={classes.container}>
           <IntroductionSection />
-          <DoctorSection />
+          <NavPillSection />
         </div>
       </div>
       <Footer />

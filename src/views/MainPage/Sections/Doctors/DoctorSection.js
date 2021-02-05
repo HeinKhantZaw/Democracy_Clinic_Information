@@ -1,6 +1,6 @@
 import React from "react";
 import DocInfo from "./DocInfo";
-import { docData } from "../../../data/data";
+import { docData } from "../../../../data/DoctorData";
 
 export default function DoctorSection() {
   return (
