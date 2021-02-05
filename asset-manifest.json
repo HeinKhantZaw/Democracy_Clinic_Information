@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/Democracy_Clinic_Information/static/css/main.54947b7b.chunk.css",
-    "main.js": "/Democracy_Clinic_Information/static/js/main.ebdfd17d.chunk.js",
-    "main.js.map": "/Democracy_Clinic_Information/static/js/main.ebdfd17d.chunk.js.map",
+    "main.js": "/Democracy_Clinic_Information/static/js/main.8886e60c.chunk.js",
+    "main.js.map": "/Democracy_Clinic_Information/static/js/main.8886e60c.chunk.js.map",
     "runtime-main.js": "/Democracy_Clinic_Information/static/js/runtime-main.0f4a5d83.js",
     "runtime-main.js.map": "/Democracy_Clinic_Information/static/js/runtime-main.0f4a5d83.js.map",
-    "static/js/2.741578ba.chunk.js": "/Democracy_Clinic_Information/static/js/2.741578ba.chunk.js",
-    "static/js/2.741578ba.chunk.js.map": "/Democracy_Clinic_Information/static/js/2.741578ba.chunk.js.map",
+    "static/js/2.3a46cc38.chunk.js": "/Democracy_Clinic_Information/static/js/2.3a46cc38.chunk.js",
+    "static/js/2.3a46cc38.chunk.js.map": "/Democracy_Clinic_Information/static/js/2.3a46cc38.chunk.js.map",
     "index.html": "/Democracy_Clinic_Information/index.html",
-    "precache-manifest.1caa8cc629d0b3deeefe513a6c670ac0.js": "/Democracy_Clinic_Information/precache-manifest.1caa8cc629d0b3deeefe513a6c670ac0.js",
+    "precache-manifest.028132fcec5ef23b2563365eeb44c882.js": "/Democracy_Clinic_Information/precache-manifest.028132fcec5ef23b2563365eeb44c882.js",
     "service-worker.js": "/Democracy_Clinic_Information/service-worker.js",
     "static/css/main.54947b7b.chunk.css.map": "/Democracy_Clinic_Information/static/css/main.54947b7b.chunk.css.map",
-    "static/js/2.741578ba.chunk.js.LICENSE.txt": "/Democracy_Clinic_Information/static/js/2.741578ba.chunk.js.LICENSE.txt",
+    "static/js/2.3a46cc38.chunk.js.LICENSE.txt": "/Democracy_Clinic_Information/static/js/2.3a46cc38.chunk.js.LICENSE.txt",
     "static/media/logo.png": "/Democracy_Clinic_Information/static/media/logo.1278b9f0.png"
   },
   "entrypoints": [
     "static/js/runtime-main.0f4a5d83.js",
-    "static/js/2.741578ba.chunk.js",
+    "static/js/2.3a46cc38.chunk.js",
     "static/css/main.54947b7b.chunk.css",
-    "static/js/main.ebdfd17d.chunk.js"
+    "static/js/main.8886e60c.chunk.js"
   ]
 }

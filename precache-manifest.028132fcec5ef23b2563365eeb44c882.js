@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d1e2447ee230c2e323878ce4a8710f8d",
+    "revision": "47e98719e5778482e9092637c9ad4805",
     "url": "/Democracy_Clinic_Information/index.html"
   },
   {
-    "revision": "b64aac58afe339101a81",
+    "revision": "41336de88f2456edf00c",
     "url": "/Democracy_Clinic_Information/static/css/main.54947b7b.chunk.css"
   },
   {
-    "revision": "d6ddf98f5815355970a4",
-    "url": "/Democracy_Clinic_Information/static/js/2.741578ba.chunk.js"
+    "revision": "39a00764058e6f00ce9a",
+    "url": "/Democracy_Clinic_Information/static/js/2.3a46cc38.chunk.js"
   },
   {
     "revision": "5e9b6f5c16b720e8a86875f97734673e",
-    "url": "/Democracy_Clinic_Information/static/js/2.741578ba.chunk.js.LICENSE.txt"
+    "url": "/Democracy_Clinic_Information/static/js/2.3a46cc38.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b64aac58afe339101a81",
-    "url": "/Democracy_Clinic_Information/static/js/main.ebdfd17d.chunk.js"
+    "revision": "41336de88f2456edf00c",
+    "url": "/Democracy_Clinic_Information/static/js/main.8886e60c.chunk.js"
   },
   {
     "revision": "d7ee7cecd893b4b80d84",
