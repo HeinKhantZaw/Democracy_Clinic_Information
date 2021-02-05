@@ -213,6 +213,13 @@ export const docData = {
       viber: "095026689",
     },
     {
+      name: "Dr.Aye Su Pyae Aung",
+      specialization: "အထွေထွေရောဂါကု",
+      status: "Telemedicine consultation via Messenger",
+      facebook: "https://www.facebook.com/ayesu.pyaeaung.5872",
+      viber: null,
+    },
+    {
       name: "Dr.Mon Mon Aung",
       specialization: "အထွေထွေရောဂါကု",
       status: "Telemedicine consultation via Viber",
@@ -371,6 +378,16 @@ export const docData = {
       specialization: "ခွဲစိတ်အထူးကု",
       status: "Telemedicine consultation via Messenger",
       facebook: "https://www.facebook.com/minzin.oo.3139",
+      viber: null,
+    },
+  ],
+  Emergency: [
+    {
+      name: "Dr.Thae Thae Phyu",
+      specialization:
+        "အရေးပေါ်နှင့်ထိခိုက်ဒဏ်ရာဆိုင်ရာ",
+      status: "Telemedicine consultation via Messenger",
+      facebook: "https://www.facebook.com/mavis.lwin.3",
       viber: null,
     },
   ],

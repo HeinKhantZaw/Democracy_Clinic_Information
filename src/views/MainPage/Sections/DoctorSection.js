@@ -23,6 +23,23 @@ export default function DoctorSection() {
         })}
       </details>
       <details>
+        <summary>အရေးပေါ်နှင့်ထိခိုက်ဒဏ်ရာဆိုင်ရာ</summary>
+        {docData.Emergency.map((data, key) => {
+          return (
+            <div key={key}>
+              <DocInfo
+                key={key}
+                name={data.name}
+                specialization={data.specialization}
+                status={data.status}
+                facebook={data.facebook}
+                viber={data.viber}
+              />
+            </div>
+          );
+        })}
+      </details>
+      <details>
         <summary>အထူးကုသမားတော်</summary>
         {docData.Physician.map((data, key) => {
           return (
