@@ -226,6 +226,13 @@ export const docData = {
       facebook: null,
       viber: "+9595080959",
     },
+    {
+      name: "Dr.Chaw Ei Ei Myo",
+      specialization: "အထွေထွေရောဂါကု",
+      status: "Telemedicine consultation via Messenger",
+      facebook: "https://www.facebook.com/chawei.jumie",
+      viber: null,
+    },
   ],
   Physician: [
     {
