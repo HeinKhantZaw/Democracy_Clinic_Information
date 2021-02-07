@@ -185,7 +185,7 @@ export default function YgnClinicSection() {
         })}
       </details>
       <details>
-        <summary>ကြည့်မြင့်တိုင်</summary>
+        <summary>တောင်ငူ</summary>
         {OtherCitiesClinicData.Taungoo.map((data, key) => {
           return (
             <div key={key}>
