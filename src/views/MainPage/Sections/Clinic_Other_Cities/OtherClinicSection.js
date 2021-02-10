@@ -135,7 +135,7 @@ export default function YgnClinicSection() {
         })}
       </details>
       <details>
-        <summary>ပုသိမ်</summary>
+        <summary>ပုသိမ် (လိုအပ်သောဆေးများ မိမိဘာသာဝယ်ရပါမည်) </summary>
         {OtherCitiesClinicData.Pathein.map((data, key) => {
           return (
             <div key={key}>
@@ -150,7 +150,22 @@ export default function YgnClinicSection() {
           );
         })}
       </details>
-
+      <details>
+        <summary>ပြင်ဦးလွင်</summary>
+        {OtherCitiesClinicData.PyinOoLwin.map((data, key) => {
+          return (
+            <div key={key}>
+              <OtherClinicInfo
+                key={key}
+                ClinicName={data.ClinicName}
+                Hours={data.Hours}
+                Address={data.Address}
+                Phone={data.Phone}
+              />
+            </div>
+          );
+        })}
+      </details>
       <details>
         <summary>စလင်း</summary>
         {OtherCitiesClinicData.SaLin.map((data, key) => {

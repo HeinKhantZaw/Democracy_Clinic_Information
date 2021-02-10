@@ -135,6 +135,22 @@ export default function YgnClinicSection() {
         })}
       </details>
       <details>
+        <summary>မှော်ဘီ</summary>
+        {ygnClinicData.HmawBi.map((data, key) => {
+          return (
+            <div key={key}>
+              <YgnClinicInfo
+                key={key}
+                ClinicName={data.ClinicName}
+                Hours={data.Hours}
+                Address={data.Address}
+                Phone={data.Phone}
+              />
+            </div>
+          );
+        })}
+      </details>
+      <details>
         <summary>အင်းစိန်</summary>
         {ygnClinicData.Insein.map((data, key) => {
           return (

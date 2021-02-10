@@ -118,7 +118,7 @@ export const ygnClinicData = {
     {
       ClinicName: "ရွှေလမင်း",
       Address: "အမှတ် ၁၂၅၄ ၊ သုဓမ္မာလမ်း",
-      Hours: "9am-11am",
+      Hours: "9am - 11am",
     },
   ],
   DawPone: [
@@ -161,13 +161,23 @@ export const ygnClinicData = {
       ClinicName: "ဒေါက်တာ ကျော်စွာသူ",
       Address: "ပိတောက်ရွှေဝါလမ်း ၁၀ တောင်ရပ်ကွက်",
       Phone: "095145258",
-      Hours: "Mon, Wed, Fri, Sat, 9am - 12pm. 4pm - 9pm",
+      Hours: "(Mon, Wed, Fri, Sat) 9am - 12pm & 4pm - 9pm",
     },
     {
       ClinicName: "ဟံသာ ဆေးခန်း",
       Address: "အမှတ် ၆၅၇ , သလ္လာဝတီ (၂) လမ်း , ၁၀ တောင် , သာကေတ",
       Phone: "09791049974",
-      Hours: "9am - 12noon & 5 - 9pm,",
+      Hours: "9am - 12pm & 5 - 9pm",
+    },
+    {
+      ClinicName: "ထွန်းတောက် ဆေးခန်း",
+      Address: "အမှတ် ၁ ရန်ပြေ ၆ လမ်းထိပ် ၃ ရပ်ကွက် သာကေတ",
+      Phone: "09775467950",
+    },
+    {
+      ClinicName: "Dr သိင်္ဂီဝင်း (သုခမင်း ဆေးခန်း)",
+      Address: "၇ရပ်ကွက်စျေးအနီး",
+      Phone: "09400499603",
     },
   ],
   ShwePyiThar: [
@@ -195,6 +205,11 @@ export const ygnClinicData = {
       ClinicName: "Myat Mon Specialist Clinic",
       Address: "No. 69, Hledan street,ချောစု ဓါတ်ပုံတိုက်ရှေ့ ၊ လမ်းမတော်",
       Phone: "09 441113004၊ 09 441113005",
+    },
+    {
+      ClinicName: "Green Cross ဆေးရုံ",
+      Address: "၁၀၁၊ လမ်းသစ်လမ်း၊ မော်တင်လမ်း",
+      Phone: "01 2300 652, 01 2300 563, 01 2300 551",
     },
   ],
   MingalarTaungNyunt: [
@@ -390,6 +405,18 @@ export const ygnClinicData = {
       Address: "တိုက် ၂၈ အခန်း၀၀၁ ပိတောက်လမ်း B block ယုဇနဥယျာဥ်မြို့တော်",
       Phone: "01593444",
       Hours: "8am - 12pm & 4:30pm - 8:30pm",
+    },
+  ],
+  HmawBi: [
+    {
+      ClinicName: "ချမ်းမြေ့နေခြည် အထူးကုဆေးခန်း",
+      Address: "လျှပ်စစ်ရုံးမှတ်တိုင် မှော်ဘီ	",
+      Phone: "09799855944, 09253172682",
+    },
+    {
+      ClinicName: "အဓိက အထူးကုဆေးခန်း",
+      Address: "D-4 ရုံးပေါင်းစုံလမ်း တပ်ကြီးကုန်းရပ်ကွက် မှော်ဘီ",
+      Phone: "09780355355",
     },
   ],
 };
